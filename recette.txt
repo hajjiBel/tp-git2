@@ -1,3 +1,3 @@
 Titre: Omelette
 Ingredients: oeufs
-Cuisson: 3 min
+Cuisson: 4 min
